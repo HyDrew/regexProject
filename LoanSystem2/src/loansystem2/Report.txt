@@ -1,0 +1,49 @@
+Loan Report:
+
+Customer Name: John Doe
+Checking Account #: C231123
+Savings Account #: S231223
+DOB: 02291987
+SSN: 313-35-9832
+Credit Score: 489
+Loan Type 1: Mortgage
+Loan Length 1: 20yr
+Loan Amount 1: 139000.0
+Monthly Payments:
+Loan Type 2: Car
+Loan Length 2: 48mo
+Loan Amount 2: 25500.0
+Monthly Payments:
+
+
+Customer Name: Jane Smith
+Checking Account #: C623499
+Savings Account #: S771235
+DOB: 08151994
+SSN: 323-75-3662
+Credit Score: 659
+Loan Type 1: Mortgage
+Loan Length 1: 20yr
+Loan Amount 1: 239000.0
+Monthly Payments:
+Loan Type 2: Credit
+Loan Length 2: null
+Loan Amount 2: 1330.0
+Monthly Payments:
+
+
+Customer Name: Larry Larry
+Checking Account #: C361162
+Savings Account #: S822356
+DOB: 06122001
+SSN: 235-36-9093
+Credit Score: 789
+Loan Type 1: Mortgage
+Loan Length 1: 30yr
+Loan Amount 1: 67850.0
+Monthly Payments:
+Loan Type 2: ARM
+Loan Length 2: 5yr
+Loan Amount 2: 67850.0
+Monthly Payments:
+
