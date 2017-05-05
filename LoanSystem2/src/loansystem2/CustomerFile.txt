@@ -1,0 +1,42 @@
+Customer info
+Customer: John Doe
+SSN: 313-35-9832
+DOB: 02291987
+Credit Score: 489
+Salary: 32890.65
+Checking Account: C231123
+Checking Account Balance: 3210.98
+Savings Account: S231223
+Savings Account Balance: 4589.56
+Loan Type: 20yr Mortgage
+Loan Amount: 139000.00
+Loan Type: 48mo Car
+Loan Amount: 25500.00
+
+Customer: Jane Smith
+SSN: 323-75-3662
+DOB: 08151994
+Credit Score: 659
+Salary: 89780.00
+Checking Account: C623499
+Checking Account Balance: 8223.87
+Savings Account: S771235
+Savings Account Balance: 28772.65
+Loan Type: 20yr Mortgage
+Loan Amount: 239000.00
+Loan Type: null Credit
+Loan Amount: 1330.00
+
+Customer: Larry Larry
+SSN: 235-36-9093
+DOB: 06122001
+Credit Score: 789
+Salary: 115875.00
+Checking Account: C361162
+Checking Account Balance: 8663.93
+Savings Account: S822356
+Savings Account Balance: 23882.76
+Loan Type: 30yr Mortgage
+Loan Amount: 67850.00
+Loan Type: 5yr ARM
+Loan Amount: 67850.00

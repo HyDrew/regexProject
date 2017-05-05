@@ -1,0 +1,57 @@
+Loan Table
+Loan Type	Mortgage
+Loan Length 30yr
+Credit Score	550	680 780
+Interest Rate	4.78%	3.16%	1.33%
+Loan Length 20yr
+Credit Score	550	680 780
+Interest Rate	4.93%	3.82%	2.07%
+Loan Length 15yr
+Credit Score	550	680 780
+Interest Rate	5.42%	4.37%	3.28%
+Loan Type	ARM
+Loan Length 7yr
+Credit Score	550	680 780
+Interest Rate	4.78%	3.16%	1.33%
+Loan Length 5yr
+Credit Score	550	680 780
+Interest Rate	4.93%	3.82%	2.07%
+Loan Length 3yr
+Credit Score	550	680 780
+Interest Rate	5.42%	4.37%	3.28%
+Loan Type	Car
+Loan Length 60mo
+Credit Score	550	680 780
+Interest Rate	4.78%	3.16%	1.33%
+Loan Length 48mo
+Credit Score	550	680 780
+Interest Rate	4.93%	3.82%	2.07%
+Loan Length 36mo
+Credit Score	550	680 780
+Interest Rate	5.42%	4.37%	3.28%
+Loan Type	Credit
+Loan Length month
+Credit Score	550	680 780
+Interest Rate	14.8%	11.5%	7.2%
+Approve if Savings and Checking is at least 3.5% of loan amount and if Salary is at least 40% of loan amount
+Y
+Y
+Y
+N
+N
+N
+Y
+Y
+N
+N/A
+Approve if Savings and Checking is at least 28.5% of loan amount and if Salary is at least 22% of loan amount
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+N/A
